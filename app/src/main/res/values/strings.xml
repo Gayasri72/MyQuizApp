@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="text1">MindHacker!</string>
+    <string name="text2">Welcome!</string>
+    <string name="text3">Please enter your name</string>
+    <string name="text4">e.g.Gayasri</string>
+    <string name="text5">Start</string>
+</resources>

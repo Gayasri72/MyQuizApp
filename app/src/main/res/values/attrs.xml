@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomMenuAttributes">
+        <attr name="cnb_iconColor" format="color"/>
+        <attr name="cnb_backgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
